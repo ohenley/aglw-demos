@@ -1,4 +1,4 @@
-# aglw-demos
+# AGLW demos
 Ada OpenGL Window Demos
 
 ::: this project has submodule dependencies found in [clone root]/main/3P  
