@@ -1,0 +1,6 @@
+[submodule "main/3P/aglw"]
+	path = main/3P/aglw
+	url = https://github.com/ohenley/aglw.git
+[submodule "main/3P/OpenGLAda"]
+	path = main/3P/OpenGLAda
+	url = https://github.com/flyx/OpenGLAda.git
