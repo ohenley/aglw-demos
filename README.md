@@ -1,5 +1,8 @@
 # aglw-demos
-Ada OpenGL Window demos
+Ada OpenGL Window Demos
+
+note : this project has submodule dependencies found in [clone root]/main/3P 
+       git clone --recursive is mandatory and takes care of syncing those 
 
 ## Build
 
