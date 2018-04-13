@@ -9,8 +9,7 @@ Ada OpenGL Window Demos
 ## Prerequisites
 
 - Win32 platform
-- Gnat compiler
-
+- GNAT compiler
 
 ## Dependencies
 
@@ -29,7 +28,7 @@ Until AGLW supports other platforms, the demos only works on win32.
 
 ## Usage
 
-Launch twp.exe and chat with your thug community.
+Launch demo01.exe and test rapid resize of window.
 
 ## Status
 
