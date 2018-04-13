@@ -1,8 +1,8 @@
 # aglw-demos
 Ada OpenGL Window Demos
 
-:: this project has submodule dependencies found in [clone root]/main/3P  
-:: git clone --recursive is mandatory and takes care of syncing those 
+::: this project has submodule dependencies found in [clone root]/main/3P  
+::: git clone --recursive is mandatory and takes care of syncing thosesubmodules
 
 ## Build
 
@@ -12,4 +12,4 @@ Ada OpenGL Window Demos
 
 ## Limitations
 
-Until Aglw supports other platforms, the demos works only on win32
+Until Aglw supports other platforms, the demos only works on win32
