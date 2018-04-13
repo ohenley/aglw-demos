@@ -2,7 +2,7 @@
 Ada OpenGL Window Demos
 
 ::: this project has submodule dependencies found in [clone root]/main/3P  
-::: git clone --recursive is mandatory and takes care of syncing thosesubmodules
+::: git clone --recursive is mandatory and takes care of syncing those submodules
 
 ## Build
 
