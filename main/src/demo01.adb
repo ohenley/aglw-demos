@@ -35,7 +35,7 @@ procedure demo01 is
 
 begin
 
-   Aglw.init (main_window, 0, 0, 800, 800, "Tutorial 02");
+   Aglw.init (main_window, 0, 0, 400, 400, "Demo 01");
    Aglw.start_window (main_window, start'Access, Rendering.Setup'Access, Rendering.Render'Access);
 
 end demo01;
