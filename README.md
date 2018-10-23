@@ -10,11 +10,11 @@ Ada OpenGL Window Demos
 
 - GNAT compiler
 
-### Windows (tested Windows 10)
+#### Windows (tested Windows 10)
 - nothing
 
-### Linux (tested ubunutu)
-- $ sudo apt-get install libgl1-mesa-dev mesa-common-dev
+#### Linux (tested ubunutu)
+- # apt-get install libgl1-mesa-dev mesa-common-dev
 
 ## Dependencies
 
