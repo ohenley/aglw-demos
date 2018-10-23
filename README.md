@@ -14,7 +14,7 @@ Ada OpenGL Window Demos
 - nothing
 
 #### Linux (tested ubunutu)
-- # apt-get install libgl1-mesa-dev mesa-common-dev
+- `# apt-get install libgl1-mesa-dev mesa-common-dev`
 
 ## Dependencies
 
