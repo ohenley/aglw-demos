@@ -8,8 +8,13 @@ Ada OpenGL Window Demos
 
 ## Prerequisites
 
-- Win32 platform
 - GNAT compiler
+
+### Windows (tested Windows 10)
+- nothing
+
+### Linux (tested ubunutu)
+- $ sudo apt-get install libgl1-mesa-dev mesa-common-dev
 
 ## Dependencies
 
