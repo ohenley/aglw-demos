@@ -24,7 +24,7 @@ Ada OpenGL Window Demos
 ## Building
 
 ```$ git clone --recursive https://github.com/ohenley/aglw-demos.git```
-- create __obj__ and __lib__ folder in [clone root]/main/3P/OpenGLAda if not present
+- create __obj__ and __lib__ folder in [clone root]/main/3P/OpenGLAda if not present    
 ```$ gprbuild demos.gpr -Xwindowing_system=windows```
 
 ## Limitations
