@@ -24,7 +24,7 @@ Ada OpenGL Window Demos
 ## Building
 
 ```
-$ git clone --recursive https://github.com/ohenley/aglw-demos.git    
+$ git clone --recursive https://github.com/ohenley/aglw-demos.git
 $ gprbuild demos.gpr -Xwindowing_system=windows
 ```
 
