@@ -14,7 +14,7 @@ Ada OpenGL Window Demos
 - nothing
 
 #### Linux (tested ubunutu)
-`# apt-get install libgl1-mesa-dev mesa-common-dev`
+```# apt-get install libgl1-mesa-dev mesa-common-dev```
 
 ## Dependencies
 
@@ -23,9 +23,9 @@ Ada OpenGL Window Demos
 
 ## Building
 
-- $ git clone --recursive https://github.com/ohenley/aglw-demos.git
+```$ git clone --recursive https://github.com/ohenley/aglw-demos.git```
 - create __obj__ and __lib__ folder in [clone root]/main/3P/OpenGLAda if not present
-- $ gprbuild demos.gpr -Xwindowing_system=windows
+```$ gprbuild demos.gpr -Xwindowing_system=windows```
 
 ## Limitations
 
